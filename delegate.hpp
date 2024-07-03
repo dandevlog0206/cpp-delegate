@@ -2,7 +2,7 @@
 /* delegate.hpp                                                          */
 /*************************************************************************/
 /* https://www.dandevlog.com/all/programming/351/                        */
-/* https://github.com/dandev0206/cpp-delegate                            */
+/* https://github.com/dandevlog0206/cpp-delegate                         */
 /*************************************************************************/
 /* Copyright (c) 2024 www.dandevlog.com                                  */
 /*                                                                       */
