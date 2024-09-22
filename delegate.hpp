@@ -422,7 +422,7 @@ public:
 	}
 
 	DEL_INLINE Delegate& operator=(Delegate&& rhs) noexcept {
-		closure.move_from(rhs.closure);
+		closure.move_from(std::move(rhs.closure));
 		return *this;
 	}
 
